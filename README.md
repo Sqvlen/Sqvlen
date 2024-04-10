@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<h3>👋 Hi there,
+   I'm Kirill Nesterenko
+</h3>
+<hr />
 <!--
 **Sqvlen/Sqvlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
