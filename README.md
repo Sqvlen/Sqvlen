@@ -1,7 +1,19 @@
 <h3>👋 Hi there,
    I'm Kirill Nesterenko
 </h3>
+
 <hr />
+
+<h4>📫 How to reach me?</h4>
+
+- <a href="https://linktr.ee/sqvlen">Linktr</a>
+
+<hr />
+
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sqvlen&layout=compact&theme=tokyonight" width="45.6%">
+</p>
+
 <!--
 **Sqvlen/Sqvlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
