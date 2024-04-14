@@ -10,8 +10,12 @@
 
 <hr />
 
+<h4>🔭 Main skills:</h4>
+
+<hr />
+
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sqvlen&layout=compact&theme=tokyonight" width="45.6%">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sqvlen&theme=dark&hide_progress=true" width="35%">
 </p>
 
 <!--
