@@ -2,16 +2,24 @@
    I'm Kirill Nesterenko
 </h3>
 
-<hr />
+I am a .NET Backend Developer and student at NTUU Igor Sirorskyi KPI, mainly interested in software engineering
 
 <h4>📫 How to reach me?</h4>
 
 - <a href="https://linktr.ee/sqvlen">Linktr</a>
 
-<hr />
-
 <h4>🔭 Main skills:</h4>
 
+<!-- For icons - https://simpleicons.org/ -->
+
+&nbsp;<img alt="C#" valign="middle" src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logoColor=white">
+&nbsp;<img alt=".NET" valign="middle" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=.net">
+
+&nbsp;<img alt="PosgreSql" valign="middle" src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=posgresql">
+&nbsp;<img alt="MSSQL" valign="middle" src="https://img.shields.io/badge/MS SQL-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=microsoftsqlserver">
+&nbsp;<img alt="SQLite" valign="middle" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=sqlite">
+
+&nbsp;<img alt="Firebase" valign="middle" src="https://img.shields.io/badge/Firebase-CC2927?style=for-the-badge&logo=firebase&logoColor=firebase">
 <hr />
 
 <p align="center">
