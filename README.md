@@ -20,10 +20,15 @@ I am a .NET Backend Developer and student at NTUU Igor Sirorskyi KPI, mainly int
 &nbsp;<img alt="SQLite" valign="middle" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=sqlite">
 
 &nbsp;<img alt="Firebase" valign="middle" src="https://img.shields.io/badge/Firebase-CC2927?style=for-the-badge&logo=firebase&logoColor=firebase">
-<hr />
+
+----
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sqvlen&theme=dark&hide_progress=true" width="35%">
+   <img alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sqvlen&theme=dark&hide_progress=true" width="35%">
+</p>
+
+<p align="center">
+   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=sqvlen&theme=dark" width="35%">
 </p>
 
 <!--
