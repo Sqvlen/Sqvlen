@@ -30,7 +30,6 @@ I am a .NET Backend Developer and student at NTUU Igor Sirorskyi KPI, mainly int
 <p align="center">
    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=sqvlen&theme=dark" width="35%">
 </p>
-
 <!--
 **Sqvlen/Sqvlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
