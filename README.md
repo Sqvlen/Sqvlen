@@ -25,15 +25,17 @@ I am a .NET Backend Developer and student at NTUU Igor Sirorskyi KPI, mainly int
 
 <p align="center">
    <img alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sqvlen&theme=highcontrast&hide_border=true&hide_progress=true" width="35%">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sqvlen&theme=highcontrast&hide_border=true" width="35%">
 </p>
 
 <p align="center">
-   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sqvlen&theme=highcontrast&hide_border=true" width="35%">
+   
 </p>
 
 <p align="center">
-   <img alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api?username=Sqvlen&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" width="35%">
+   <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sqvlen&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-onl" width="35%">
 </p>
+
 
 <!--
 **Sqvlen/Sqvlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
